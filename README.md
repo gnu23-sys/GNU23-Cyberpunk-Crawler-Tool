@@ -11,6 +11,7 @@
 
 **GNU23 Cyberpunk Crawler** é uma ferramenta de varredura de links (web crawler) desenvolvida para pentesters e entusiastas do submundo cibernético.  
 Inspirada na pegada visual do **Photon** e dos terminais de filmes como Mr. Robot e Matrix, ela **recursivamente extrai todos os links de um site**, com suporte a filtros por extensão e exibição em modo neon terminal-style. ☠️💻
+Contacto: https://t.me/gnu23
 
 ---
 
